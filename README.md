@@ -32,7 +32,7 @@
 
 ### ScreenReaderStudio
 
-#### [사이트](https://screen-reader-studio-fe.vercel.app/) | [프론트엔드 레포지토리](https://github.com/ScreenReaderStudio/ScreenReaderStudio-FE) | [백엔드 레포지토리](https://github.com/ScreenReaderStudio/ScreenReaderStudio-BE)
+#### [사이트](https://www.screen-reader-studio.com/) | [프론트엔드 레포지토리](https://github.com/ScreenReaderStudio/ScreenReaderStudio-FE) | [백엔드 레포지토리](https://github.com/ScreenReaderStudio/ScreenReaderStudio-BE)
 
 스크린 리더 출력을 시뮬레이션하고 접근성 이슈를 자동 분석해 웹 접근성 개선을 돕는 서비스
 
