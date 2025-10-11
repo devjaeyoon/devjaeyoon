@@ -6,6 +6,8 @@
 
 앞으로도 저는 사용자 경험을 고민하는 개발자로 성장해가고 싶습니다. 기능을 뛰어넘어, 누구나 쉽게 접근하고 사용할 수 있는 웹을 만들어가는 일에 기여하고 싶습니다.
 
+✉️ **contact** : <a href="mailto:devjaeyoon@gmail.com">devjaeyoon@gmail.com</a>
+
 ## 프로젝트
 
 ### ScreenReaderStudio
