@@ -6,6 +6,24 @@
 
 앞으로도 저는 사용자 경험을 고민하는 개발자로 성장해가고 싶습니다. 기능을 뛰어넘어, 누구나 쉽게 접근하고 사용할 수 있는 웹을 만들어가는 일에 기여하고 싶습니다.
 
+## 프로젝트
+
+### ScreenReaderStudio
+
+#### [사이트](https://www.screen-reader-studio.com/) | [프론트엔드 레포지토리](https://github.com/ScreenReaderStudio/ScreenReaderStudio-FE) | [백엔드 레포지토리](https://github.com/ScreenReaderStudio/ScreenReaderStudio-BE)
+
+스크린 리더 출력을 시뮬레이션하고 접근성 이슈를 자동 분석해 웹 접근성 개선을 돕는 서비스
+
+- `Puppeteer`와 `axe-core`를 통한 스크린 리더 대본 생성 및 접근성 분석
+
+### RedioPremium
+
+#### [프론트엔드 레포지토리](https://github.com/Radio-Premium/RadioPremium-FE) | [백엔드 레포지토리](https://github.com/Radio-Premium/RadioPremium-BE) | [머신러닝 레포지토리](https://github.com/Radio-Premium/RadioPremium-Whisper)
+
+실시간 음성 인식으로 라디오 광고를 탐지해 자동 채널 전환·복귀를 지원하는 몰입형 라디오 청취 서비스
+
+- 소켓 통신 방식으로 실시간 음성 인식 및 광고 판별
+
 ## 기술 스택
 
 ### 프론트엔드
@@ -27,24 +45,6 @@
 ![Socket.IO](https://img.shields.io/badge/socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-## 프로젝트
-
-### ScreenReaderStudio
-
-#### [사이트](https://www.screen-reader-studio.com/) | [프론트엔드 레포지토리](https://github.com/ScreenReaderStudio/ScreenReaderStudio-FE) | [백엔드 레포지토리](https://github.com/ScreenReaderStudio/ScreenReaderStudio-BE)
-
-스크린 리더 출력을 시뮬레이션하고 접근성 이슈를 자동 분석해 웹 접근성 개선을 돕는 서비스
-
-- `Puppeteer`와 `axe-core`를 통한 스크린 리더 대본 생성 및 접근성 분석
-
-### RedioPremium
-
-#### [프론트엔드 레포지토리](https://github.com/Radio-Premium/RadioPremium-FE) | [백엔드 레포지토리](https://github.com/Radio-Premium/RadioPremium-BE) | [머신러닝 레포지토리](https://github.com/Radio-Premium/RadioPremium-Whisper)
-
-실시간 음성 인식으로 라디오 광고를 탐지해 자동 채널 전환·복귀를 지원하는 몰입형 라디오 청취 서비스
-
-- 소켓 통신 방식으로 실시간 음성 인식 및 광고 판별
 
 <!--
 **devjaeyoon/devjaeyoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
