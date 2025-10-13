@@ -18,7 +18,7 @@
 
 - `Puppeteer`와 `axe-core`를 통한 스크린 리더 대본 생성 및 접근성 분석
 
-### RedioPremium
+### RadioPremium
 
 #### [프론트엔드 레포지토리](https://github.com/Radio-Premium/RadioPremium-FE) | [백엔드 레포지토리](https://github.com/Radio-Premium/RadioPremium-BE) | [머신러닝 레포지토리](https://github.com/Radio-Premium/RadioPremium-Whisper)
 
