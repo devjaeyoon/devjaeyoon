@@ -1,5 +1,3 @@
-## 기여
-
 ### [Vite](https://github.com/vitejs/vite)
 
 `create-vite`로 생성한 React·TypeScript·ESLint 프로젝트의 [의존성 설치 오류 수정 및 회귀 테스트 추가](https://github.com/vitejs/vite/commit/28e1710790ac5ef65ed5e84cbb20438bc3218f01)
